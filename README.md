@@ -5,6 +5,9 @@
 и с переделыванием системы с 0.
 -# ps: После новогодних праздников займусь возможно созданием версии 1.2 где будет улучшенное оформление, так же планируется разработка для устройств на следующих платформах: macOS, Apple, Android, Ubuntu.
 
+Где фаил exe?
+\Release1.1\net472\CftoolsBrowser.exe
+
     ╔═══════════════════════════════════════════════════════╗
     ║                                                       ║
     ║     ██╗   ██╗ █████╗ ███╗   ███╗ ██████╗ ██████╗      ║
@@ -19,8 +22,10 @@
     ║                                                       ║
     ╚═══════════════════════════════════════════════════════╝
 
+  <img width="1918" height="950" alt="image" src="https://github.com/user-attachments/assets/8bb200a8-6c34-4112-af7a-5617db6b8dc7" />
   <img width="1599" height="875" alt="image" src="https://github.com/user-attachments/assets/466d0ac2-82d4-43ea-a257-44b2cba343ce" />
   <img width="939" height="843" alt="image" src="https://github.com/user-attachments/assets/ea78cbb7-b13e-485b-a5f4-c637e230d292" />
   <img width="400" height="838" alt="image" src="https://github.com/user-attachments/assets/a3242921-e58a-4808-8df7-347bb2839354" />
   <img width="274" height="811" alt="image" src="https://github.com/user-attachments/assets/6012154b-1575-4223-9827-207f1b7c80c4" />
 
+Если вы найдете какие - то дыры в моем коде я буду раз если вы сообщиет ds developer Yamori Ko
