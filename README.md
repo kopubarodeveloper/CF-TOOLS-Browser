@@ -9,7 +9,8 @@
 \Release1.1\net472\CftoolsBrowser.exe
 ВАЖНО:
 Запускайте фаил CftoolsBrowser.exe в нутри папке, если вы его вытаците он работать не будет т.к не будут библиотек, весю папку вы можете кинуть на вирус тотал и проверить что все гуд!
-<img width="1920" height="1045" alt="image" src="https://github.com/user-attachments/assets/d03b67f9-a40a-4d3a-a499-c0d37f320518" />
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/842b2391-3e19-4541-ba6a-1580613e52fc" />
+
 
 
     ╔═══════════════════════════════════════════════════════╗
